@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Najeeb%20Ullah%20Tahir&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Full-Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="./banner.jpg" alt="Najeeb Ullah Tahir - Software Engineer Banner" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://najeeb-ullah-786.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najeeb-ullah-tahir)
